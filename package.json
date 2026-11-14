@@ -1,0 +1,2 @@
+{"name":"scholz7-live","version":"1.0.0","private":true,"description":"Servidor de salas em tempo real do Scholz 7","main":"server.js","scripts":{"start":"node server.js"},"dependencies":{"ws":"^8.18.0"}}
+
